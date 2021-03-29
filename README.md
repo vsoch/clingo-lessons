@@ -20,7 +20,7 @@ If you don't have Docker installed, [do that first](https://docs.docker.com/get-
 Then build the container:
 
 ```bash
-$ docker build -t clingo-lessons .
+$ docker build -f Dockerfile.clingo -t clingo-lessons .
 ```
 
 You'll then want to run the container, binding port 8888 to your host so you
