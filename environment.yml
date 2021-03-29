@@ -1,0 +1,6 @@
+name: clingo-environment
+channels:
+  - potassco
+dependencies:
+  - python
+  - clingo

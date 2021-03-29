@@ -1,0 +1,1 @@
+echo 'alias_magic clingo script -p "clingo --no-raise-error"' >> `ipython locate profile`/startup/config.ipy
