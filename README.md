@@ -1,4 +1,4 @@
-# Clingo Docker
+# Clingo Lessons
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/vsoch/clingo-lessons/main)
 
